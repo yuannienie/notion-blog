@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Notions Test',
-  domain: 'yuan.site',
+  domain: 'yuan-love.site',
   author: 'Yuan Nie',
 
   // open graph metadata (optional)
